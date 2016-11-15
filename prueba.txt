@@ -1,4 +1,4 @@
 <html>
 <body>
-<h2>Hola Prueba</h2>
+<h2>Hola Prueba 2</h2>
 </body>
